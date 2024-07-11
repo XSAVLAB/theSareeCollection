@@ -1,8 +1,8 @@
 {
-  "name": "the-saree-collection",
+  "name": "medusa-starter-default",
   "version": "0.0.1",
-  "description": "A starter for saree colletion application.",
-  "author": "kumarpint00",
+  "description": "A starter for Medusa projects.",
+  "author": "Medusa (https://medusajs.com)",
   "license": "MIT",
   "keywords": [
     "sqlite",
